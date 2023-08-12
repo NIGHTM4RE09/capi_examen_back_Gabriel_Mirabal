@@ -1,5 +1,8 @@
 <?php
 
+use App\Http\Controllers\UserDomicilioController;
+use App\Http\Resources\UserCollection;
+use App\Models\UserDomicilio;
 use Illuminate\Support\Facades\Route;
 
 /*
